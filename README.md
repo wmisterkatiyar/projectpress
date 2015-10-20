@@ -1,3 +1,10 @@
+# projectpress
+A CMS for project management.
+
+
+Project Technical Details
+=========================
+
 Symfony Standard Edition
 ========================
 
